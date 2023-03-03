@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Hortense Utuje
+description: Simple client interfaces to a computer vision API
+
+author:
+  name: Hortense Utuje
